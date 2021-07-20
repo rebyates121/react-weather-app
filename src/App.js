@@ -16,6 +16,7 @@ export default function App() {
           >
             open-sourced on Github
           </a>
+          , and is currently a work in progress.
         </footer>
       </div>
     </div>
