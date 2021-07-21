@@ -14,7 +14,7 @@
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 100;
   line-height: 29px;
   margin: 20px 0 0 0;
@@ -31,7 +31,7 @@
 }
 
 .Weather li {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 100;
   line-height: 19px;
   list-style: none;
@@ -58,8 +58,4 @@
   position: relative;
   top: -32px;
   line-height: 1;
-}
-
-.Weather a {
-  color: #f95959;
 }
