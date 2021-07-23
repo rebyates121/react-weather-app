@@ -1,21 +1,18 @@
 .Weather {
   background: linear-gradient(
-    99.6deg,
-    rgb(112, 128, 152) 10.6%,
-    rgb(242, 227, 234) 32.9%,
-    rgb(234, 202, 213) 52.7%,
-    rgb(220, 227, 239) 72.8%,
-    rgb(185, 205, 227) 81.1%,
-    rgb(154, 180, 212) 102.4%
+    179.1deg,
+    rgb(247, 238, 238) -1.9%,
+    rgb(247, 202, 201) 44.9%,
+    rgb(145, 168, 208) 96.1%
   );
-  border: 1px solid #233142;
+  border: 3px solid #233142;
   box-shadow: 20px 20px 20px #233142;
   font-family: arial, sans-serif;
-  color: #e3e3e3;
+  color: #455d7a;
   padding: 20px;
   margin: 30px auto;
   max-width: 600px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .Weather h1 {
@@ -23,10 +20,6 @@
   font-weight: 100;
   line-height: 29px;
   margin: 20px 0 0 0;
-  color: #e3e3e3;
-}
-
-.Weather .date-description {
   color: #455d7a;
 }
 
@@ -40,7 +33,6 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
-  color: #455d7a;
 }
 
 .Weather canvas {
@@ -52,14 +44,13 @@
 .Weather .temperature {
   font-weight: bold;
   font-size: 64px;
-  color: #455d7a;
   font-weight: 400;
   line-height: 64px;
+  color: #e3e3e3;
 }
 
 .Weather .unit {
-  color: #455d7a;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   position: relative;
   top: -32px;

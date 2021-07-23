@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1 className="Weather-app">Weather App</h1>
+        <h1 className="Weather-app">Weather App 😎</h1>
         <Weather defaultCity="London" />
         <footer>
           This project was coded by Rebecca Yates and is{" "}
@@ -17,7 +17,7 @@ export default function App() {
           >
             open-sourced on Github
           </a>
-          , and is currently a work in progress.
+          .
         </footer>
       </div>
     </div>

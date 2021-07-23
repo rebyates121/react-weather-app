@@ -1,21 +1,13 @@
-body {
-  background-image: url(./clouds.jpg);
-  background-size: 510px;
-}
-
 .App {
   max-width: 600px;
   margin: 30px auto;
-  position: relative;
-  top: 100px;
 }
 
 .App .Weather-app {
   font-family: arial, sans-serif;
   line-height: 64px;
   font-size: 60px;
-  color: #ececec;
-  text-shadow: 1px 1px 2px #000, 0 0 1em #c28b8f, 0 0 0.2em #c28b8f;
+  color: #233142;
 }
 
 .App footer {
